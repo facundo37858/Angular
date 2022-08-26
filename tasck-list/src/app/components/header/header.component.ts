@@ -11,7 +11,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  handlerTasck(){
+  handlerTask(){
     alert('click header')
   }
 
