@@ -1,28 +1,34 @@
 {
-    "tasck":[
-        {
-            "id":1,
-            "text":"compras",
-            "day":"27-08-22",
-            "reminder":true
-        },
-        {
-            "id":2,
-            "text":"terminar tarea angular",
-            "day":"28-08-22",
-            "reminder":true
-        },
-        {
-            "id":3,
-            "text":"gym",
-            "day":"29-08-22",
-            "reminder":true
-        },
-        {
-            "id":4,
-           "text":"terminar libro",
-            "day":"30-08-22",
-            "reminder":true
-        }
-    ]
+  "tasck": [
+    {
+      "id": 1,
+      "text": "compras",
+      "day": "27-08-22",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "terminar tarea angular",
+      "day": "28-08-22",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "terminar libro",
+      "day": "30-08-22",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "terminar libro2",
+      "day": "1-09-22",
+      "reminder": false
+    },
+    {
+      "text": "hola",
+      "day": "4916",
+      "reminder": true,
+      "id": 6
+    }
+  ]
 }
